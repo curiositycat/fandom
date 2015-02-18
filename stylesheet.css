@@ -1,0 +1,18 @@
+div {
+	border: solid #a8ff00;
+	border-radius: 100%;
+	display: inline-block;
+	height: 100px;
+	width: 100px;
+	margin: 1em;
+}
+
+body {
+	background-color: #253d67;
+}
+
+img {
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+}
